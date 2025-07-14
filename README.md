@@ -4,7 +4,7 @@ StudySync is a modern and clean educational website landing page designed using 
 
 ## 📸 Preview
 
-![StudySync Preview](./screenshot.jpeg) <!-- Optional: Add a screenshot of your site -->
+Link: https://taj-ansari.github.io/StudySync/
 
 ---
 
