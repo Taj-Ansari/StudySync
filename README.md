@@ -4,7 +4,7 @@ StudySync is a modern and clean educational website landing page designed using 
 
 ## 📸 Preview
 
-![StudySync Preview](./screenshot.png) <!-- Optional: Add a screenshot of your site -->
+![StudySync Preview](./screenshot.jpeg) <!-- Optional: Add a screenshot of your site -->
 
 ---
 
